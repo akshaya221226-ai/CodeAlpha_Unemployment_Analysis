@@ -1,0 +1,39 @@
+UNEMPLOYMENT ANALYSIS REPORT
+============================================================
+
+1. DATASET INFORMATION
+Original rows: 768
+Cleaned rows: 740
+Average unemployment rate: 11.79%
+
+2. RURAL VS URBAN
+Urban: 13.17%
+Rural: 10.32%
+
+3. COVID-19 IMPACT
+Pre-COVID average: 9.61%
+COVID average: 20.19%
+Increase: 10.58 percentage points
+Percentage increase: 110.03%
+
+4. HIGHEST UNEMPLOYMENT
+Region: Puducherry
+Date: 30-04-2020
+Rate: 76.74%
+
+5. TOP 10 REGIONS
+Region
+Tripura             28.35
+Haryana             26.28
+Jharkhand           20.58
+Bihar               18.92
+Himachal Pradesh    18.54
+Delhi               16.50
+Jammu & Kashmir     16.19
+Chandigarh          15.99
+Rajasthan           14.06
+Uttar Pradesh       12.55
+Name: Estimated Unemployment Rate (%), dtype: float64
+
+6. CONCLUSION
+The analysis shows a significant increase in unemployment during the COVID-19 pandemic. Urban unemployment was higher than rural unemployment, and labour participation also changed during the pandemic. After the peak period, unemployment began to decline, indicating gradual economic recovery.
